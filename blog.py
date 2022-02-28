@@ -43,7 +43,7 @@ def blogWriter():
                     print("Expanding {}...".format(line))
                     output = blogSectionExpander(line)
                     with open("./line.txt", 'a') as f:
-                        f.write("\n\n" + line + "\n\n")
+                        f.write("\n\n\n" + line + "\n")
                         f.write(output)
                         print("done")
             except Exception as e:
