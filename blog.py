@@ -36,13 +36,13 @@ def blogWriter():
     """Loops through a .txt file and supplies input to `blogSectionExpander`
     """
     try:
-        with open("C:/Users/DOZI/Desktop/BlogWriter/file.txt", 'r' encoding="utf8") as f:
+        with open("./file.txt", "r") as f:
             lines = f.readlines()
             try:
                 for line in lines:
                     print("Expanding {}...".format(line))
                     output = blogSectionExpander(line)
-                    with open("C:/Users/DOZI/Desktop/BlogWriter/line.txt", 'a') as f:
+                    with open("./line.txt", 'a') as f:
                         f.write("\n\n" + line + "\n\n")
                         f.write(output)
                         print("done")
