@@ -1,116 +1,113 @@
 
 
 
-What is HubSpot?
+What is MailChimp?
 
 
-HubSpot is a market leading inbound marketing and sales platform. It helps businesses attract visitors, convert leads, and close customers. HubSpot features a powerful suite of tools which helps businesses create content, optimize their website, and track their progress.
-
-HubSpot also offers a wide range of training and certification programs to help businesses learn how to use the platform effectively. HubSpot is used by over 25,000 businesses in over 100 countries.
+MailChimp is an email marketing service provider. It allows you to create and send newsletters, marketing materials, and other types of electronic communication to your subscribers. You can also use MailChimp to track the results of your email marketing campaigns.
 
 
-How does HubSpot work?
+
+Why use MailChimp?
+
+There are a number of reasons why you might want to use MailChimp for your email marketing needs. Some of the benefits include:
+
+- MailChimp is free for up to 2,000 subscribers
+
+- It offers a wide range of templates and design tools to help you create professional-looking communications
+
+- It provides detailed reports and analytics to help you track the success of your campaigns
+
+- It has a large library of resources, including how-to guides and tutorials, to help you get started with email marketing
 
 
-HubSpot is an inbound marketing and sales platform that helps companies attract visitors, convert leads, and close customers. It does this by integrating with your website to track website visitors and convert them into leads, then providing tools to help you nurture and close those leads.
-
-HubSpot also includes a CRM to help you keep track of your leads and customers, as well as a marketing automation tool to help you create and execute marketing campaigns.
+How does MailChimp work?
 
 
-Who is HubSpot for?
+MailChimp is a powerful email marketing tool that helps you communicate with your customers and subscribers. It allows you to create and send newsletters, manage subscriber lists, track campaign results, and more.
+
+MailChimp's subscription service is free for up to 2,000 subscribers, and you can send up to 12,000 emails per month. Paid plans start at $10 per month and include more features, such as automated emails, advanced segmentation, and more.
+
+To use MailChimp, you first need to create a free account. Then, you can create a newsletter or email campaign. You can add subscribers to your list manually, or you can import a list of subscribers from a file.
+
+Next, you'll need to create a campaign. You can create a plain text or HTML campaign, or you can use one of MailChimp's templates. You can also create a custom template.
+
+Then, you'll need to set up your delivery options. You can send the campaign immediately, or you can schedule it to be sent at a later date. You can also send the campaign in batches, which is useful if you have a large list of subscribers.
+
+Next, you'll need to set up your recipients. You can choose to send the campaign to everyone on your list, or you can target specific recipients. You can also create a custom list of recipients.
+
+Then, you'll need to create your content. You can add
 
 
-HubSpot is a marketing automation software company that helps businesses grow by capturing and converting leads into customers. HubSpot's software helps businesses do things like create and track marketing campaigns, identify and track website visitors, and create and manage sales pipelines.
-
-HubSpot is perfect for businesses of all sizes who are looking to grow their customer base. It's also great for businesses who want to automate their marketing and sales processes.
+Who is MailChimp for?
 
 
-Features: What are the features of HubSpot?
+MailChimp is for anyone who wants to create, send, and track email newsletters. It's great for small businesses, bloggers, and marketers who need to manage large lists and send out automated emails.
+
+MailChimp is free for up to 2,000 subscribers, and 12,000 emails per month. Paid plans start at $10 per month.
 
 
-HubSpot is an inbound marketing and sales platform that helps businesses attract visitors, convert leads, and close customers. It offers a wide range of features, including:
-
--Website builder: HubSpot's website builder lets you create a website in minutes, without any coding required.
-
--Landing pages: HubSpot's landing pages are designed to convert leads into customers.
-
--Forms: HubSpot's forms are designed to capture leads from your website.
-
--Lead management: HubSpot's lead management tool helps you track and nurture leads.
-
--Email marketing: HubSpot's email marketing tool helps you create and send newsletters, drip campaigns, and other automated emails.
-
--Social media: HubSpot's social media tool helps you publish content, track social media analytics, and run social media campaigns.
-
--CRM: HubSpot's CRM tool helps you track and manage your customer relationships.
-
--Marketing automation: HubSpot's marketing automation tool helps you automate your marketing tasks.
+Features: What are the features of MailChimp?
 
 
-Features: How does HubSpot compare to other email marketing platforms?
+MailChimp is a web-based email marketing service that allows businesses to create and send newsletters, promotional emails, and other types of email campaigns. It also includes features that allow businesses to track the results of their email campaigns, including the number of subscribers, how often emails are opened, and the location of subscribers.
+
+MailChimp offers a free plan for businesses with up to 2,000 subscribers, and paid plans that start at $10 per month for businesses with up to 500 subscribers.
+
+Businesses that use MailChimp can create email campaigns using a variety of templates, or they can create their own email designs. MailChimp also offers a variety of tools and integrations that allow businesses to create custom email campaigns that are tailored to their specific needs.
+
+MailChimp also offers a wide range of analytics and reporting features that allow businesses to track the success of their email campaigns. This includes the ability to see how many subscribers opened an email, how many clicks each email received, and the location of subscribers.
 
 
-HubSpot offers a wide range of features that are not available in other email marketing platforms. These features include marketing automation, contact management, lead capture, and CRM integration. HubSpot also offers a wide range of templates and built-in tools that make it easy to create beautiful emails that look great on any device.
+Features: How does MailChimp compare to other email marketing platforms?
 
 
-Pricing: How much does HubSpot cost?
+MailChimp is a versatile email marketing platform that offers a wide range of features to its users. Some of these features include the ability to create sign-up forms, create and send newsletters, track the success of your campaigns, and more.
+
+Compared to other email marketing platforms, MailChimp offers a fairly comprehensive set of features. However, it is not the only platform that offers these features. Other platforms such as Constant Contact and AWeber also offer similar features.
+
+One key difference between MailChimp and these other platforms is that MailChimp is free for up to 2,000 subscribers. This makes it a more affordable option for small businesses and bloggers.
+
+Overall, MailChimp is a versatile and affordable email marketing platform that offers a wide range of features.
 
 
-HubSpot pricing starts at $200 per month for the Essentials plan. The Professional plan costs $800 per month and includes more features, such as A/B testing and lead scoring. The Enterprise plan costs $2,400 per month and includes even more features, such as customer segmentation and lead nurturing.
+Pricing: How much does MailChimp cost?
 
-HubSpot also offers a free plan that includes limited features, such as email marketing and contact management.
+
+MailChimp pricing is based on your list size, and you can choose from a number of pricing plans. Our Forever Free plan lets you send 12,000 emails per month to up to 2,000 subscribers. If you need to send more emails, we have a number of paid plans that start at $10 a month.
+
+You can also purchase add-ons, such as our Mandrill transactional email service, or our Google Analytics integration. We also have a number of discounts and partner programs available.
 
 
 Pricing: What are the different payment plans?
 
 
-There are three different payment plans for the pricing of our services.
+We offer a variety of payment plans to fit your needs. You can choose to pay monthly, quarterly, or annually.
 
-The first is a one-time payment for a full year of service. The second payment plan is a monthly payment for a full year of service. The third payment plan is a monthly payment for service that is billed every 3 months.
+Monthly: You can choose to pay monthly, which is $9.99 per month.
 
+Quarterly: You can also choose to pay quarterly, which is $24.99 per quarter.
 
-Conclusion: Is HubSpot the right email marketing platform for you?
-
-
-
-Whether HubSpot is the right email marketing platform for you depends on your needs and what you're looking for in a platform. HubSpot is a comprehensive platform with a wide range of features, but it may be overkill for small businesses that don't need all of those features.
-
-If you're looking for a platform with a wide range of features and a robust marketing automation tool, HubSpot is a good choice. If you're looking for a more affordable platform with fewer features, there are a number of other options available.
+Annually: You can choose to pay annually, which is $99.99 per year.
 
 
-Conclusion: How to get started with HubSpot
+Conclusion: Is MailChimp the right email marketing platform for you?
 
 
-If you're just getting started with HubSpot, there are a few things you need to do to get set up. In this article, we'll show you how to create a HubSpot account, set up your first property, and add your first contact.
+MailChimp is a great platform for businesses of all sizes. It’s easy to use, and you can create beautiful email newsletters with no design experience. Plus, MailChimp offers a wide range of features that can help you grow your business.
 
-Creating a HubSpot Account
+However, MailChimp isn’t the right platform for everyone. If you’re looking for a platform with more advanced features, or if you need to send a high volume of emails, then you may need to look for a different platform.
 
-To create a HubSpot account, go to hubspot.com and click the "Create Account" button.
 
-You'll be prompted to enter your email address and choose a password.
+Conclusion: How to get started with MailChimp
 
-Once you've entered your information, click the "Create Account" button.
 
-You'll then be prompted to enter your company information.
+Now that you understand the basics of MailChimp, it’s time to start building your mailing list. To create a list in MailChimp, go to Lists and click the Create List button.
 
-Enter your company name and website, and click the "Create Company" button.
+Enter the name of your list and the email address of the person who will be responsible for managing it. Click the Create button.
 
-You'll then be taken to your HubSpot account dashboard.
+You’ll be prompted to enter some basic information about your list, including the list type, the default language, and the list description.
 
-Setting Up Your First Property
+You can also specify a list of subscribers’ email addresses, which will be used as the default list when you create a new campaign.
 
-To set up your first property, go to your HubSpot account dashboard and click the "Create Property" button.
-
-You'll be prompted to enter your property name and website.
-
-Enter your property name and website, and click the "Create" button.
-
-You'll then be taken to your property dashboard.
-
-Adding Your First Contact
-
-To add your first contact, go to your HubSpot account dashboard and click the "Add a Contact" button.
-
-You'll be prompted to enter your contact's name and email address.
-
-Enter your contact's name and email address, and click the "
+Click the Save button and you’re ready to start using your new list.
