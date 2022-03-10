@@ -1,0 +1,13 @@
+
+
+
+What Is Vibrant Media's RPM or CPM? key words: ad network
+, vibrant media, vibrant media cpm, vibrant media rpm
+
+
+
+RPM, or revenue per thousand impressions, is a metric used to measure how much revenue an ad network or publisher generates per thousand impressions. This metric is also known as CPM, or cost per thousand impressions.
+
+To calculate RPM, divide the network's or publisher's revenue by the number of impressions served. For example, if a network generates $10,000 in revenue from 100,000 impressions served, the network's RPM is $100 (10,000/100,000).
+
+RPM can be used to measure the effectiveness of an ad campaign. If an advertiser's goal is to generate a certain amount of revenue, they can use RPM to determine how many impressions they need to purchase to reach that goal.
