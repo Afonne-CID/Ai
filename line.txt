@@ -1,11 +1,9 @@
 
 
 
-How SendPulse 'Unsubscribe' feature allows your campaigns get to peoples inbox
-es
+Salesforce Marketing Cloud's cross-channel marketing
+ capabilities provide the ability to orchestrate campaigns across email, social media, mobile, and the web.
 
-As any email marketer knows, the unsubscribe feature is key to keeping your campaigns out of the spam folder and in front of your subscribers. And SendPulse makes it easy to unsubscribe from your campaigns with just a few clicks.
+Salesforce Marketing Cloud is the only marketing platform that offers an intuitive interface to create and manage campaigns across all channels, and provides an integrated view of customer interactions across channels. This allows you to orchestrate campaigns across email, social media, mobile, and the web.
 
-When a subscriber clicks the unsubscribe link in your email, they're taken to a page where they can unsubscribe from all of your campaigns or just specific ones. They can also choose to receive less or more email from you in the future.
-
-This handy unsubscribe feature ensures that your campaigns get to your subscribers' inboxes and not the spam folder. And it's just one of the ways that SendPulse makes email marketing easy and effective.
+You can use Salesforce Marketing Cloud to create and send targeted email campaigns, including dynamic content that changes based on customer interactions and profile data. You can also create and publish social media posts, ads, and landing pages, and track how customers interact with your content across channels. And with Salesforce Marketing Cloud's mobile SDK, you can create mobile apps that allow customers to interact with your brand on the go.
