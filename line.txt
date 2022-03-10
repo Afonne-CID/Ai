@@ -1,130 +1,43 @@
 
 
 
-SendPulse Bulk emails sending
+What is SendPulse’s signup process?
 
 
-Bulk emails sending is an effective way to keep in touch with your customers and keep them updated about your new products, services, and offers. It also helps to build customer loyalty and increase customer engagement.
+SendPulse’s signup process is simple and efficient. First, you provide your name and email address. Then, you choose a password and complete the captcha. Finally, you click the signup button and you’re done!
 
-SendPulse offers an easy-to-use bulk email sending tool that makes it easy to send large numbers of emails to your customers quickly and efficiently. The tool allows you to create and send beautiful email newsletters, announcements, and other communications, and it also provides detailed reports that help you to track the success of your campaigns.
+Now that you’re a SendPulse user, what’s next?
 
-SendPulse’s bulk email sending tool is easy to use and it’s free to sign up. You can create and send your first campaign within minutes.
+First, you need to create a new list. To do this, click the “Lists” tab and then the
 
 
-SendPulse Track email opens and clicks
+How much does SendPulse cost?
 
 
-With SendPulse, you can track the number of email opens and clicks for each message you send. This way, you can see which messages are getting the most attention and adjust your marketing strategy accordingly.
+MailChimp and SendPulse are both great email marketing platforms, but they have different pricing structures.
 
-To track email opens and clicks, you first need to create a campaign. Once your campaign is created, you will be able to see the "Stats" section, which will show you how many email opens and clicks your campaign has received.
+MailChimp’s pricing starts at $10 per month for up to 2,000 subscribers. It then goes up to $75 per month for up to 50,000 subscribers.
 
-You can also see this information for each individual email in your campaign. To do this, open the email and click the "Stats" button. This will show you how many email opens and clicks the email has received.
+SendPulse’s pricing starts at $0 per month for up to 2,500 subscribers. It then goes up to $25 per month for up to 25,000
 
 
-SendPulse Create email newsletters.
+Does SendPulse have an API?
 
 
-SendPulse is an email marketing service that lets you create and send newsletters, promotional emails, and other automated messages. You can create messages using a simple drag-and-drop editor, or import them from a variety of sources, including RSS feeds, your website, and social media. You can also create automated messages based on customer behavior, such as when someone abandons a shopping cart.
+Yes, SendPulse does have an API! The SendPulse API is a RESTful API that allows you to access all of the functionality of the SendPulse platform programmatically. You can use the API to send emails, create and manage contacts, create and manage campaigns, and more.
 
-SendPulse offers a variety of delivery options, including email, text messages, and notifications to Facebook and other social media platforms. You can also track the success of your campaigns using a variety of analytics tools, including open and click-through rates.
+The SendPulse API is easy to use, and you can find documentation and examples on the SendPulse Developer Portal. If you need help using the API, or if you have
 
-SendPulse is free to use for up to 2,000 subscribers, and plans start at $9 per month for up to 10,000 subscribers.
 
+What kind of support options does SendPulse offer?
 
-SendPulse Artificial Intelligence technology (AI)
 
+SendPulse offers a wide range of support options to its users. These include:
 
-The term “artificial intelligence” was coined in 1956 by John McCarthy, one of the founders of the field of AI research. McCarthy defines AI as “the science and engineering of making intelligent machines, especially intelligent computer programs.” AI research deals with the question of how to create computers that are capable of intelligent behaviour.
+- A comprehensive online knowledge base, which includes articles, tutorials, and FAQs
 
-In practical terms, AI applications can be deployed in a number of ways, including:
+- A support ticket system, which allows users to submit support tickets and track the status of their tickets
 
-1. Machine learning: This is a method of teaching computers to learn from data, without being explicitly programmed.
+- Live chat support
 
-2. Natural language processing: This involves teaching computers to understand human language and respond in a way that is natural for humans.
-
-3. Robotics: This involves the use of robots to carry out tasks that would otherwise be difficult or impossible for humans to do.
-
-4. Predictive analytics: This is a method of using artificial intelligence to make predictions about future events, trends, and behaviours.
-
-5. Computer
-
-
-SendPulse Drag and Drop Editor
-
-
-Drag and drop email editor allows you to create beautiful and responsive email newsletters in minutes, without any coding skills. The editor is easy to use and has all the necessary features to create great newsletters.
-
-You can create newsletters with different layouts - one column, two columns or three columns. Also, you can add different types of content - text, images, videos, social media buttons, etc. The editor allows you to create responsive newsletters, so they look great on all devices.
-
-You can also test your newsletters before sending them to your subscribers. The editor will show you how your newsletters will look on different devices and email clients.
-
-The drag and drop editor is a great tool for creating beautiful and responsive newsletters.
-
-
-SendPulse Autoresponders
-
-
-There are many different types of autoresponders, but at SendPulse, we believe that the best autoresponders are the ones that are automated and triggered by specific events.
-
-An automated autoresponder is one that is set up before it is needed and will send messages automatically when a specific event occurs. For example, you could set up an automated autoresponder to send a message to your subscribers when you post a new blog post.
-
-A triggered autoresponder, on the other hand, is one that is set up after it is needed. Triggered autoresponders are activated by some type of user interaction, such as clicking on a link or opening an email.
-
-At SendPulse, we offer both types of autoresponders, and we believe that they are both essential for any successful email marketing campaign.
-
-
-SendPulse Subscription Forms
-
-
-A subscription form is a web form used to collect information from website visitors interested in subscribing to a mailing list or newsletter. A subscription form is usually placed on a website's home page or blog, and allows visitors to provide their name and email address in order to subscribe.
-
-There are many different types of subscription forms, and each form can be customized to fit the specific needs of the website. Some common features of subscription forms include the ability to select the type of content the visitor wants to receive, the ability to choose how often they want to receive content, and the ability to unsubscribe from the mailing list at any time.
-
-When creating a subscription form, it is important to make sure the form is easy to use and understand. The form should be simple to fill out, and should only ask for the information necessary to subscribe to the mailing list. It is also important to make sure the form looks professional and is properly aligned on the page.
-
-When designing a subscription
-
-
-SendPulse Web Push Notifications
-
-
-Web push notifications are messages that are sent to a user's web browser. They are similar to desktop notifications, but are delivered to the user's web browser instead of their desktop.
-
-Web push notifications are a great way to keep users up-to-date on your website's latest news, products, and offers. They are also a great way to increase customer engagement and loyalty.
-
-There are two types of web push notifications:
-
-1. Notification messages - Notification messages are sent to a user when they first open their web browser. They are typically used to notify users of new website content or offers.
-
-2. Persistent messages - Persistent messages are sent to a user at predetermined intervals, regardless of whether or not they have their web browser open. They are typically used to remind users of important website content or offers.
-
-There are several ways to send web push notifications:
-
-1. Manually - You can send web push notifications manually by using
-
-
-SendPulse SMS Service
-
-
-SMS service is an important part of the SendPulse platform. It allows you to send SMS messages to your contacts and customers with just a few clicks. You can also send automated SMS messages, which are perfect for reminders and notifications.
-
-The SMS service is easy to use and it integrates with the other features of the SendPulse platform. You can create and send SMS messages from the SendPulse website or from the SendPulse mobile app.
-
-The SMS service is available in more than 190 countries and it supports more than 800 carriers. You can send SMS messages to any mobile phone in the world.
-
-The SMS service is perfect for:
-
-- Sending reminders and notifications
-- Sending marketing messages
-- Sending transactional messages
-- Sending messages to customers and contacts
-
-
-SendPulse Unsubscribe to help campaigns get to inbox
- zero
-
-Campaigns that rely on email marketing can quickly become cluttered if not managed correctly. Unsubscribing from unnecessary email lists is one way to help keep your inbox organized and help your campaigns reach inbox zero.
-
-SendPulse makes unsubscribing from email campaigns easy. When you receive an email from us, you can click on the unsubscribe link at the bottom of the email. This will take you to a page where you can unsubscribe from all future emails from us.
-
-If you have any questions about unsubscribing from email campaigns, please contact us at support@sendpulse.com.
+- Telephone support
