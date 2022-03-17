@@ -1,21 +1,41 @@
 
 
 
-What Is SoundCloud?
+To host your podcast with SoundCloud, you will need to complete a few additional steps: Upload your podcast episode files, Add episode information (title, description, etc.), Add your podcast’s RSS feed URL, Select your podcast’s language, Enable podcasting on your account
+, and Submit your podcast for inclusion in SoundCloud’s directory.
 
+Upload your podcast episode files:
 
-SoundCloud is a social media platform that allows users to upload, share, and listen to audio files. It is a great way to share your music with the world, and to connect with other musicians. SoundCloud also has a built-in community of music lovers who can listen to your audio files and leave feedback.
+The first step is to upload your podcast episode files to SoundCloud. You can either host your episodes on SoundCloud, or host them on your own server and link to them from SoundCloud.
 
+If you’re hosting your episodes on your own server, you’ll need to make sure your server is set up to serve podcasts. For more information, see our article on how to create a podcast.
 
-Podcast Hosting On SoundCloud
+If you’re hosting your episodes on SoundCloud, you can follow the instructions in our article on how to upload audio files.
 
+Add episode information:
 
-Creating a podcast and uploading it to SoundCloud is a great way to share your voice and thoughts with the world. In this article, we’ll show you how to create a podcast, and then how to upload it to SoundCloud.
+Next, you’ll need to add episode information to your files. This includes the title of the episode, the description, the episode number, and the release date.
 
-First, you’ll need to create a podcast episode. This can be done in a number of ways, but we recommend using a voice recording app on your phone or computer. Once you have a recording, you can add it to SoundCloud.
+You can add this information in the file’s metadata, or you can add it in the SoundCloud player. To add episode information in the player, click on the “i” icon next to the share button.
 
-To add your recording to SoundCloud, open the SoundCloud app or go to the SoundCloud website. In the top left corner, click “Upload”, and then select the recording you want to upload.
+Add your podcast’s RSS feed URL:
 
-Once your recording is uploaded, you can add a title, description, and tags. You can also choose to make your podcast public or private.
+The next step is to add your podcast’s RSS feed URL. This is the URL of your podcast’s RSS feed.
 
-To publish your podcast, go to the “Settings” tab and click “
+If you’re not sure what your RSS feed URL is, you can find it in your podcast host’s dashboard. For more information, see our article on how to find your podcast’s RSS feed URL.
+
+Select your podcast’s language:
+
+The next step is to select your podcast’s language. SoundCloud supports podcasts in English, Spanish, French, German, Italian, and Brazilian Portuguese.
+
+If your podcast is in a language that we don’t support, you can still host it on SoundCloud, but it won’t be included in our podcast directory.
+
+Enable podcasting on your account:
+
+The next step is to enable podcasting on your account. To do this, go to your account settings and check the box next to “Enable podcasting.”
+
+Submit your podcast for inclusion in SoundCloud’s directory:
+
+The final step is to submit your podcast for inclusion in SoundCloud’s directory. To do this, go to your podcast settings and click on the “Submit for inclusion” button.
+
+If your podcast is accepted, it will be included in our directory and you’ll be able to share it with your listeners.
