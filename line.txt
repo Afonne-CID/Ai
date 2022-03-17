@@ -1,41 +1,41 @@
 
 
 
-To host your podcast with SoundCloud, you will need to complete a few additional steps: Upload your podcast episode files, Add episode information (title, description, etc.), Add your podcast’s RSS feed URL, Select your podcast’s language, Enable podcasting on your account
-, and Submit your podcast for inclusion in SoundCloud’s directory.
+Now that you’ve created your podcast and added your first episode, it’s time to adjust your content settings. This will determine how your podcast is presented on SoundCloud. Under the “Settings” tab, you can control the following: Your podcast’s title and description, Whether listeners can download or stream your episodes, Whether your podcast is public or private, What language your podcast is in, Whether your podcast is available on SoundCloud’s mobile app, Your podcast’s artwork, Your podcast’s episode order, Your podcast’s RSS feed, Your podcast’s stats
+.
 
-Upload your podcast episode files:
+Title and Description
 
-The first step is to upload your podcast episode files to SoundCloud. You can either host your episodes on SoundCloud, or host them on your own server and link to them from SoundCloud.
+Your podcast’s title and description will be the first thing potential listeners see when browsing for new content. Make sure your title is catchy and descriptive, and your description is interesting and engaging. Tell listeners what your podcast is about, what type of content they can expect, and why they should listen.
 
-If you’re hosting your episodes on your own server, you’ll need to make sure your server is set up to serve podcasts. For more information, see our article on how to create a podcast.
+Download or Stream
 
-If you’re hosting your episodes on SoundCloud, you can follow the instructions in our article on how to upload audio files.
+You can choose whether listeners can download or stream your episodes. If you choose to allow downloads, your listeners can save your episodes to their devices to listen offline. If you choose to allow streaming, your listeners can listen to your episodes online without having to download them.
 
-Add episode information:
+Public or Private
 
-Next, you’ll need to add episode information to your files. This includes the title of the episode, the description, the episode number, and the release date.
+You can choose whether your podcast is public or private. Public podcasts can be found and listened to by anyone, while private podcasts can only be accessed by people you share the link with.
 
-You can add this information in the file’s metadata, or you can add it in the SoundCloud player. To add episode information in the player, click on the “i” icon next to the share button.
+Language
 
-Add your podcast’s RSS feed URL:
+You can choose the language your podcast is in. This will determine the language of your title, description, and episode notes.
 
-The next step is to add your podcast’s RSS feed URL. This is the URL of your podcast’s RSS feed.
+Mobile App
 
-If you’re not sure what your RSS feed URL is, you can find it in your podcast host’s dashboard. For more information, see our article on how to find your podcast’s RSS feed URL.
+You can choose whether your podcast is available on SoundCloud’s mobile app. If you choose to make your podcast available on the app, listeners can access it on their phones and tablets.
 
-Select your podcast’s language:
+Artwork
 
-The next step is to select your podcast’s language. SoundCloud supports podcasts in English, Spanish, French, German, Italian, and Brazilian Portuguese.
+Your podcast’s artwork is important for catching potential listeners’ attention. Make sure your artwork is high quality and representative of your podcast.
 
-If your podcast is in a language that we don’t support, you can still host it on SoundCloud, but it won’t be included in our podcast directory.
+Episode Order
 
-Enable podcasting on your account:
+You can choose the order in which your podcast’s episodes appear. You can choose to have them appear in reverse chronological order (newest episodes first), alphabetical order, or custom order.
 
-The next step is to enable podcasting on your account. To do this, go to your account settings and check the box next to “Enable podcasting.”
+RSS Feed
 
-Submit your podcast for inclusion in SoundCloud’s directory:
+Your podcast’s RSS feed is how other websites and apps can find and include your content. If you want your podcast to be featured on other websites or apps, you’ll need to provide them with your RSS feed URL.
 
-The final step is to submit your podcast for inclusion in SoundCloud’s directory. To do this, go to your podcast settings and click on the “Submit for inclusion” button.
+Stats
 
-If your podcast is accepted, it will be included in our directory and you’ll be able to share it with your listeners.
+Under the “Stats” tab, you can see how many people have listened to your podcast, where they’re listening from, and what devices they’re using. This information can help you determine which episodes are most popular, and what content is resonating with your listeners.
