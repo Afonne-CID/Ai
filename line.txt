@@ -1,15 +1,9 @@
 
 
 
-Media.net traffic requirements: Your content needs to be in native English. The majority of the traffic source needs to come from the US, UK, and Canada.. A significant amount of premium content needs to be featured on the website.
+What Is Media.net's RPM: Media.net typically pays about $5/1,000 impression, which is among the best in the industry. You can typically run 3 ads per page, meaning if you have 334 views, that's about 1,000 impressions. At $5 RPM you can make $5/day or roughly $150/mo off only 334 visits/day.
 
 
-Media.net is an ad network that operates on a Cost-Per-Click (CPC) basis. This means that publishers are paid based on the number of clicks that their ads receive. In order to be eligible to participate in the Media.net network, your website must meet the following requirements:
+Media.net is a contextual ad network, which means that its ads are displayed on websites based on the content of the webpages. This is in contrast to networks like Google Adsense, which display ads based on what the user is browsing. Contextual ad networks generally have higher RPMs (revenue per thousand impressions) than other ad networks, because the ads are more relevant to the user.
 
-The content on your website must be in native English.
-
-The majority of your traffic must come from the United States, the United Kingdom, or Canada.
-
-You must have a significant amount of premium content on your website.
-
-If you meet these requirements, you can apply to join the Media.net network.
+Media.net is owned by Yahoo! and is one of the largest contextual ad networks in the world. It has a wide reach, with over 900,000 websites in its network.
