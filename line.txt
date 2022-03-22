@@ -1,9 +1,19 @@
 
 
 
-The RPM for publishers on the Popads network varies. On an average, publishers can expect CPM rates from $0.60 to $3.00 per thousand impressions for worldwide traffic.
+Infolinks Application Requirements for Publishers
 
 
-However, the RPM can vary depending on a number of factors, such as the country or region of the traffic, the quality of the traffic, the ad format, and the competition for ad inventory on the network.
+In order to be a publisher on the Infolinks platform, you must meet the following requirements:
 
-Generally speaking, the RPM is higher for traffic from developed countries, such as the United States, United Kingdom, and Australia. The RPM is also higher for traffic that engages with the ads, such as clicking on the ads or watching the videos.
+- Have a website with a minimum of 500 visitors per day
+
+- Have published original content on your website for a minimum of six months
+
+- Use a minimum of three different ad units on your website
+
+- Use a minimum of one Infolinks ad unit
+
+- Use Google Analytics to track your website traffic
+
+If you meet the above requirements, you can apply to become a publisher on the Infolinks platform.
