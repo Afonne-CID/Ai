@@ -1,25 +1,11 @@
 
 
 
-Once you are sure you have a valuable and comprehensive content on a given topic, now your page performance can mean retained users or a high bounce rate page. To complete the full circle of SEO, your on-site and off-site needs to be in place, and page performance is one of the core aspects you can ignore.
+Another essential new approach to SEO in the 2020s is by identifying the value of the Keyword you wish to rank for versus the search volume of the keyword. If a keyword is valuable to your business but has less search volume, it's just as valuable as one with massive search volume, or even more.
 
 
-There are three types of page performance you need to look into:
+You can identify the value of a keyword by its commercial intent. A keyword with high commercial intent is a keyword that someone is more likely to type into a search engine when they're looking to buy something. These are the types of keywords you want to target because they have the potential to bring in more revenue for your business.
 
-1. Page Speed
+Some keywords have high commercial intent but low search volume, while others have low commercial intent but high search volume. It's important to identify which keywords are valuable to your business and target those keywords.
 
-2. Webpage Content
-
-3. Page Layout
-
-Page Speed
-
-Page speed is how quickly a page loads. You can use PageSpeed Insights to check the page speed of your website. You want your website to have a page speed of 90 or above.
-
-Webpage Content
-
-Make sure your website has valuable and comprehensive content on a given topic. You can use the Yoast SEO plugin to check the word count and readability of your website. The Yoast SEO plugin also checks for the use of keywords and other SEO factors.
-
-Page Layout
-
-Make sure your website has a clean and user-friendly layout. You can use the Google PageSpeed Insights tool to check the page layout of your website.
+By targeting valuable, high commercial intent keywords, you'll be able to rank for keywords that have the potential to bring in more revenue for your business.
