@@ -1,193 +1,183 @@
 
 
 
-Free Custom Thumbnail Creation Tools to Create a YouTube Thumbnail: PlaceIt
+How To Start A YouTube Channel
 
 
-If you want to create a custom thumbnail for your YouTube video, there are a few free tools that you can use. In this article, we'll discuss one such tool, PlaceIt, and how you can use it to create a custom thumbnail for your YouTube video.
+Starting a YouTube channel can be a fun and profitable way to share your talents, interests, or knowledge with the world. But before you can start racking up views and subscribers, you need to set up your channel and configure its settings. In this article, we’ll walk you through the steps of starting a YouTube channel.
 
-PlaceIt is a free online tool that allows you to create custom thumbnails for your videos. To use PlaceIt, you simply need to provide a link to the video you want to create a thumbnail for, select a template, and then enter your text and upload your image.
+First, you’ll need to create a Google account if you don’t already have one. Then, go to youtube.com and click on the “Sign In” button in the top-right corner of the page.
 
-Once you've created your thumbnail, you can download it or share it online. PlaceIt also allows you to create videos, and you can use your thumbnails in your videos as well.
+Next, click on the “Create Channel” button.
 
-If you're looking for a free tool to create custom thumbnails for your YouTube videos, PlaceIt is a good option. It's easy to use, and you can create thumbnails that look professional and polished.
+In the “Create a Channel” dialog box, enter the name of your channel and click on the “Create” button.
 
+Your channel will now be created, and you’ll be taken to the channel’s main page.
 
-Free Custom Thumbnail Creation Tools to Create a YouTube Thumbnail: Canva
+On the channel’s main page, you’ll see a few different tabs: “Home”, “Uploads”, “My Channel”, and “Settings”.
 
+The “Home” tab displays a list of your latest uploads, while the “Uploads” tab displays all of your uploaded videos.
 
-GIMP
+The “My Channel” tab displays information about your channel, such as your channel description, subscribers, and video views.
 
-Paint.NET
+The “Settings” tab allows you to configure various settings for your channel, such as your channel type, language, and privacy settings.
 
-Pixelmator
+In the “Settings” tab, click on the “Advanced” tab.
 
-Adobe Photoshop
+In the “Advanced” tab, you’ll see a list of settings that you can configure for your channel.
 
-Adobe Illustrator
+The first setting that you’ll want to configure is your channel type.
 
-Inkscape
+There are three different types of channels:
 
-Sketch
+Personal: A personal channel is a channel that is associated with a single Google account.
 
-There are a number of free thumbnail creation tools that you can use to create a thumbnail for your YouTube video. In this article, we will discuss some of the most popular thumbnail creation tools and how to use them.
+Brand: A brand channel is a channel that is associated with a business or organization.
 
-Canva is a free online graphic design tool that allows you to create custom thumbnails for your YouTube videos. You can choose from a variety of templates and designs, or you can create your own design from scratch.
+Music: A music channel is a channel that is associated with a music artist or band.
 
-To create a thumbnail using Canva, first navigate to the Canva website and sign in or create an account. Once you are logged in, click on the “Create a Design” button and select the “YouTube Thumbnail” option.
+For this tutorial, we’ll be configuring a personal channel.
 
-Canva will then prompt you to choose a template. You can choose from a variety of templates, or you can create your own design from scratch.
+Next, you’ll want to configure your language settings.
 
-Once you have chosen a template, you can start customizing it by adding your own text, images, and other elements. You can also change the size and shape of the thumbnail.
+The language settings allow you to specify the language that your channel will use.
 
-When you are finished customizing your thumbnail, click on the “Download” button and save it to your computer.
+By default, the language setting will be set to your Google account’s language. However, you can change the language setting to any language that you want.
 
-GIMP is a free image editing software that allows you to create custom thumbnails for your YouTube
+Next, you’ll want to configure your privacy settings.
 
+The privacy settings allow you to specify who can see your channel and its videos.
 
-Free Custom Thumbnail Creation Tools to Create a YouTube Thumbnail: Adobe Spark
+There are three different privacy settings:
 
+Public: A public channel and its videos are visible to everyone.
 
-If you're looking to create a custom thumbnail for your YouTube channel, you have a few different options. In this article, we'll discuss one of the most popular options: Adobe Spark.
+Private: A private channel and its videos are only visible to the channel owner and people who the channel owner has invited to view the channel.
 
-Adobe Spark is a free online tool that allows you to create custom graphics and videos. It's simple to use, and you can create professional-quality thumbnails with just a few clicks.
+Unlisted: A unlisted channel and its videos are only visible to people who have the channel’s URL.
 
-To create a custom thumbnail in Adobe Spark, start by visiting the Adobe Spark website. Then, click on the "Create" button and select "YouTube thumbnail."
+For this tutorial, we’ll be configuring the privacy setting to be “Public”.
 
-Next, enter the details of your thumbnail. You'll need to enter the title of your video, the URL of the video, and the dimensions of the thumbnail.
+Next, you’ll want to configure your video settings.
 
-Then, click on the "Create" button. Adobe Spark will create a custom thumbnail for you.
+The video settings allow you to specify the dimensions and file format of your videos.
 
-If you're not happy with the thumbnail, you can edit it or create a new one. To edit a thumbnail, click on the "Edit" button. To create a new thumbnail, click on the "Create" button and select "YouTube thumbnail."
+By default, the video settings will be set to the recommended settings. However, you can change the video settings to any settings that you want.
 
-Adobe Spark is a great tool for creating custom thumbnails for your YouTube channel. It's easy to use, and you can create professional-quality thumbnails in just a few clicks.
+Next, you’ll want to configure your monetization settings.
 
+The monetization settings allow you to enable or disable monetization for your channel.
 
-Free Custom Thumbnail Creation Tools to Create a YouTube Thumbnail: Fotor
+By default, the monetization setting will be enabled. However, you can disable the monetization setting if you don’t want to monetize your channel.
 
+Next, you’ll want to configure your notifications settings.
 
-In today’s world, online video is one of the most popular forms of content. Whether you’re a business owner, marketer, or just someone who wants to share your thoughts and experiences with the world, creating a quality YouTube video is a great way to do so. And, as anyone who’s ever created a video knows, the most important part of a quality video is the thumbnail.
+The notifications settings allow you to specify the type of notifications that you want to receive for your channel.
 
-A good thumbnail can make all the difference between someone clicking on your video and passing it by, so it’s important to put some thought into creating a good one. Luckily, there are a number of free tools out there that can help you do just that. In this article, we’ll take a look at one of our favorites: Fotor.
+There are three different types of notifications:
 
-Fotor is a free online photo editor that offers a wide range of features for creating quality thumbnails. With Fotor, you can easily add text, graphics, and other elements to your thumbnail to help capture the viewer’s attention. You can also use Fotor to resize and crop your thumbnail image, and to add filters and other effects to give it a more polished look.
+All: All types of notifications are enabled.
 
-To get started with Fotor, simply visit the Fotor website and click on the “Create a Thumbnail” button. This will open the thumbnail editor, where you can start creating your thumbnail.
+Subscribers: Only notifications about new subscribers are enabled.
 
-The first step is to choose an image to use for your
+Uploads: Only notifications about new uploads are enabled.
 
+For this tutorial, we’ll be configuring the notifications setting to be “Subscribers”.
 
-Free Custom Thumbnail Creation Tools to Create a YouTube Thumbnail: Snappa
+Next, you’ll want to configure your video settings.
 
+The video settings allow you to specify the dimensions and file format of your videos.
 
-Creating a thumbnail for your YouTube channel can be a daunting task. Not only do you need to make sure that the image is high quality and looks great, but you also need to make sure that it follows YouTube's specific guidelines.
+By default, the video settings will be set to the recommended settings. However, you can change the video settings to any settings that you want.
 
-One way to make creating a thumbnail easier is to use a free online tool like Snappa. Snappa allows you to create custom thumbnails quickly and easily, without having to worry about the details.
+Next, you’ll want to configure your monetization settings.
 
-To create a thumbnail in Snappa, start by clicking on the "Create a New Thumbnail" button. You can then choose from a variety of templates, or start from scratch.
+The monetization settings allow you to enable or disable monetization for your channel.
 
-Once you have chosen a template, you can start customizing it. You can add text, images, and shapes, and you can also change the size and color of the text and images.
+By default, the monetization setting will be enabled. However, you can disable the monetization setting if you don’t want to monetize your channel.
 
-When you're finished, you can preview your thumbnail and then save it. Snappa also allows you to share your thumbnail with others, or even export it as a PDF.
+Next, you’ll want to configure your notifications settings.
 
-If you're looking for an easy way to create custom thumbnails for your YouTube channel, Snappa is a great option.
+The notifications settings allow you to specify the type of notifications that you want to receive for your channel.
 
+There are three different types of notifications:
 
-Free Custom Thumbnail Creation Tools to Create a YouTube Thumbnail: Visme
+All: All types of notifications are enabled.
 
+Subscribers: Only notifications about new subscribers are enabled.
 
-When you're creating a video for YouTube, the thumbnail is one of the most important elements to consider. This is the small image that will be displayed next to the title of your video in the search results, and it's crucial that you make sure it's eye-catching and enticing enough to convince people to click on it.
+Uploads: Only notifications about new uploads are enabled.
 
-Luckily, there are a number of free tools out there that can help you create custom thumbnails for your videos. In this article, we'll take a look at three of the best options: Visme, Canva, and Snappa.
+For this tutorial, we’ll be configuring the notifications setting to be “Uploads”.
 
-Visme
+Next, you’ll want to configure your video settings.
 
-Visme is a versatile online tool that lets you create custom visuals for a variety of purposes, including thumbnails for YouTube videos. It offers a wide range of templates and tools that you can use to create your thumbnail, and you can also upload your own images and graphics.
+The video settings allow you to specify the dimensions and file format of your videos.
 
-One of the best things about Visme is that it offers a free plan that lets you create unlimited thumbnails. You can also use the tool to create other types of visuals, such as presentations, infographics, and social media posts.
+By default, the video settings will be set to the recommended settings. However, you can change the video settings to any settings that you want.
 
-Canva
+Next, you’ll want to configure your monetization settings.
 
-Canva is another great option for creating custom thumbnails. It offers a wide range of templates and tools that you can use, and it also lets you upload your own images and graphics.
+The monetization settings allow you to enable or disable monetization for your channel.
 
-Canva also offers a free plan that lets you create unlimited thumbnails. In addition to thumbnails,
+By default, the monetization setting will be enabled. However, you can disable the monetization setting if you don’t want to monetize your channel.
 
+Next, you’ll want to configure your notifications settings.
 
-Free Custom Thumbnail Creation Tools to Create a YouTube Thumbnail: Creatopy
+The notifications settings allow you to specify the type of notifications that you want to receive for your channel.
 
+There are three different types of notifications:
 
-Creatopy is a free online thumbnail creation tool that you can use to create a custom thumbnail for your YouTube video. First, you need to select the dimensions of your thumbnail. Then, you can add text, graphics, and effects to your thumbnail. You can also choose a background color or image. When you're done, you can download your thumbnail and add it to your YouTube video.
+All: All types of notifications are enabled.
 
-Pixlr
+Subscribers: Only notifications about new subscribers are enabled.
 
-Pixlr is another free online thumbnail creation tool that you can use to create a custom thumbnail for your YouTube video. First, you need to select the dimensions of your thumbnail. Then, you can add text, graphics, and effects to your thumbnail. You can also choose a background color or image. When you're done, you can download your thumbnail and add it to your YouTube video.
+Uploads: Only notifications about new uploads are enabled.
 
-Canva
+For this tutorial, we’ll be configuring the notifications setting to be “All”.
 
-Canva is a free online design tool that you can use to create a custom thumbnail for your YouTube video. First, you need to select the dimensions of your thumbnail. Then, you can add text, graphics, and effects to your thumbnail. You can also choose a background color or image. When you're done, you can download your thumbnail and add it to your YouTube video.
+Next, you’ll want to configure your video settings.
 
+The video settings allow you to specify the dimensions and file format of your videos.
 
-Free Custom Thumbnail Creation Tools to Create a YouTube Thumbnail: Fotojet
+By default, the video settings will be set to the recommended settings. However, you can change the video settings to any settings that you want.
 
+Next, you’ll want to configure your monetization settings.
 
-Fotojet is a free online photo editor that you can use to create custom thumbnails for your YouTube videos. It's easy to use, and you can create thumbnails in a variety of different sizes.
+The monetization settings allow you to enable or disable monetization for your channel.
 
-To create a thumbnail using Fotojet, first select the "Create" tab and then select "YouTube Thumbnail."
+By default, the monetization setting will be enabled. However, you can disable the monetization setting if you don’t want to monetize your channel.
 
-Next, select the size of thumbnail you want to create.
+Next, you’ll want to configure your notifications settings.
 
-Then, select the photo you want to use for your thumbnail. You can either select a photo from your computer or from Fotojet's built-in library of stock photos.
+The notifications settings allow you to specify the type of notifications that you want to receive for your channel.
 
-Once you've selected your photo, you can use the built-in tools to edit it. You can adjust the brightness, contrast, saturation, and sharpness, and you can add text, stickers, and filters.
+There are three different types of notifications:
 
-When you're finished editing your photo, you can save it to your computer or share it on social media.
+All: All types of notifications are enabled.
 
+Subscribers: Only notifications about new subscribers are enabled.
 
-Free Custom Thumbnail Creation Tools to Create a YouTube Thumbnail: PicMonkey
+Uploads: Only notifications about new uploads are enabled.
 
+For this tutorial, we’ll be configuring the notifications setting to be “All”.
 
-One of the best free thumbnail creation tools that you can use online is PicMonkey. This online photo editor has a wide range of features, including the ability to create custom thumbnails for your YouTube videos.
+Now that you’ve configured all of the settings for your channel, it’s time to start uploading videos.
 
-To create a thumbnail using PicMonkey, start by visiting the website and clicking on the “Create a New Image” button.
+To upload a video, click on the “Upload” tab and then click on the “Select Files” button.
 
-Next, choose the “YouTube Thumbnail” option from the list of templates.
+In the “Select Files” dialog box, select the video that you want to upload and then click on the “Open” button.
 
-This will open a new window where you can enter the details for your thumbnail.
+The video will now be uploaded, and you’ll see a progress bar.
 
-In the top left corner, you’ll see a list of the dimensions for a YouTube thumbnail. Enter the dimensions for your thumbnail in the “Width” and “Height” fields, then click on the “Create” button.
+When the video has been uploaded, you’ll see a thumbnail for the video and some information about the video.
 
-PicMonkey will then create a new thumbnail based on the dimensions you entered. You can then edit the thumbnail to add text, graphics, or other elements.
+To add a title and description for the video, click on the “Edit” button.
 
-When you’re finished editing the thumbnail, click on the “Save” button and then select a file name and location to save the thumbnail.
+In the “Edit Video” dialog box, enter the title and description for the video and then click on the “Save” button.
 
-You can then upload the thumbnail to your YouTube video and it will be displayed when people view the video.
+Your video will now be added to your channel.
 
+To publish the video, click on the “Publish” button.
 
-Free Custom Thumbnail Creation Tools to Create a YouTube Thumbnail: PixTeller
-
-
-Are you looking for a free way to create custom thumbnails for your YouTube videos? PixTeller is a great tool for creating professional-looking thumbnails without any design experience.
-
-To get started, visit the PixTeller website and click on the “Create a New Design” button.
-
-You’ll then be prompted to choose a design type. For thumbnails, we recommend selecting the “YouTube Thumbnail” option.
-
-Next, you’ll be asked to choose a template. For thumbnails, we recommend selecting the “Standard” template.
-
-You’ll then be prompted to enter the title of your video.
-
-Next, you’ll be asked to enter the description of your video.
-
-Next, you’ll be asked to enter the URL of your video.
-
-Next, you’ll be asked to choose a background color.
-
-Next, you’ll be asked to choose a font.
-
-Next, you’ll be asked to choose a text color.
-
-Next, you’ll be asked to choose an image.
-
-When you’re finished, click on the “Create” button.
-
-Your thumbnail will then be created and you can download it by clicking on the “Download” button.
+Your video will now be published and will be available to view on your channel.
