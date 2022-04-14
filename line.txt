@@ -1,37 +1,63 @@
 
 
 
-How many emails can you send at once with SendGrid?
+Omnisend Pros
 
 
-You can send up to 300 emails at once with SendGrid.
+1. Omnisend is a user-friendly platform that makes it easy to create beautiful email newsletters and marketing campaigns.
+
+2. Omnisend offers a wide range of powerful features, including automated segmentation, A/B testing, and powerful integrations.
+
+3. Omnisend is incredibly affordable, with plans starting at just $9/month.
+
+4. Omnisend is constantly updating their platform with new features and enhancements, ensuring that you always have the latest and greatest tools at your disposal.
+
+5. Omnisend has an excellent customer support team who are always happy to help with any questions or issues you may have.
 
 
-How many emails can send by SendGrid free plan?
+Ominisend cons
 
 
-SendGrid's free plan allows you to send up to 200 emails per day.
+-Lack of segmentation options
+
+-No automation
+
+-No integrations
 
 
-How many emails can SendGrid send per minute?
+
+Ominisend pros
+
+-Great design
+
+-Good deliverability
+
+-Low price
 
 
-SendGrid can send up to 500 emails per minute.
+How do you use Omnisend?
 
 
-Does SendGrid store email content?
+Omnisend is a marketing automation platform that helps businesses grow their email list, send automated marketing campaigns, and track the results.
+
+You can use Omnisend to create sign-up forms that you can embed on your website, or use our integrations with platforms like Shopify, WordPress, and Magento to automatically add new subscribers to your email list.
+
+You can also use Omnisend to create automated marketing campaigns, such as welcome emails, birthday emails, and abandoned cart emails. And, you can track the results of your marketing campaigns to see how they’re performing.
 
 
-Short answer: No
-
-Long answer:
-
-At SendGrid, we take data security and privacy seriously. We do not store the content of any emails that pass through our system. We do, however, store information about the senders and recipients of those emails, as well as when and how they were sent. This information is necessary to provide our customers with the analytics and reporting features that they rely on to make effective use of email marketing.
+How do I contact Omnisend?
 
 
-Sendgrid review: Conclusion
+We're always happy to hear from our customers! You can contact our support team by emailing support@omnisend.com or by clicking the "Chat with us" button on our website.
 
 
-Overall, Sendgrid is a fantastic email marketing platform that is both powerful and easy to use. It’s perfect for businesses of all sizes, and its pricing is very reasonable.
+How do I cancel Omnisend?
 
-If you’re looking for an email marketing platform that can do it all, Sendgrid is definitely worth considering.
+
+There are two ways you can cancel your Omnisend account:
+
+1. You can cancel your account from your account settings.
+
+2. You can email us at support@omnisend.com and we will be happy to help you cancel your account.
+
+When you cancel your account, all your data will be permanently deleted and you will not be able to access it again.
