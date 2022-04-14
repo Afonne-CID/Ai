@@ -1,41 +1,25 @@
 
 
 
-ActiveCampaign Pros
+How many emails can I send with ActiveCampaign?
 
 
-ActiveCampaign is a marketing automation tool that helps you send the right email, at the right time, to the right people. It’s great for small businesses because it’s affordable and easy to use.
-
-Some of the ActiveCampaign pros include:
-
-1. It’s affordable.
-
-ActiveCampaign starts at just $9/month, which is a great price for small businesses.
-
-2. It’s easy to use.
-
-ActiveCampaign is very intuitive and easy to use. You can create and send emails, create automations, and track your results, all without any programming knowledge.
-
-3. You can track your results.
-
-ActiveCampaign lets you track the results of your email campaigns, so you can see how many people opened your email, clicked on your links, and more. This information can help you improve your email campaigns and get better results.
-
-4. It integrates with other platforms.
-
-ActiveCampaign integrates with other platforms, such as WordPress, Shopify, and Salesforce, so you can easily connect your email campaigns with your other marketing activities.
-
-5. It’s reliable.
-
-ActiveCampaign is a reliable platform that is constantly updated with new features. You can be confident that your email campaigns will be delivered accurately and on time.
-
-ActiveCampaign is a great tool for small businesses who want to improve their marketing results. It’s affordable, easy to use, and lets you track your results. It also integrates with other platforms, making it easy to connect your email campaigns with your other marketing activities.
+There is no limit to the number of emails you can send with ActiveCampaign.
 
 
-ActiveCampaign Cons
+What can you do with ActiveCampaign?
 
 
-- The pricing can be a little steep for some people
+ActiveCampaign is a versatile marketing automation tool that can help you manage your email marketing, marketing automation, and sales automation needs. With ActiveCampaign, you can create and send automated email marketing sequences, create and manage marketing automation workflows, and track and manage your sales pipeline. Plus, ActiveCampaign integrates with a wide range of third-party tools and services, so you can easily connect your marketing and sales efforts with the rest of your business operations.
 
-- Limited automation capabilities compared to some of the other options available
 
-- Some people find the user interface to be a little confusing
+How many contacts can you have in ActiveCampaign?
+
+
+You can have an unlimited number of contacts in ActiveCampaign.
+
+
+How long does ActiveCampaign free trial last?
+
+
+We offer a 14-day free trial for all our plans.
