@@ -1,27 +1,37 @@
 
 
 
-Is Campaign Monitor GDPR compliant?
+How many emails can you send at once with SendGrid?
 
 
-The General Data Protection Regulation (GDPR) is a new EU data protection law that came into effect on May 25, 2018. The GDPR replaces the 1995 EU Data Protection Directive.
-
-The GDPR applies to all organizations with EU or national customers, regardless of whether the organization has a physical presence in the EU.
-
-Organizations that process the personal data of EU citizens must comply with the GDPR unless they can demonstrate that they meet certain conditions.
-
-Organizations that process the personal data of EU citizens must implement specific measures to protect the personal data of EU citizens, including:
-
--Data encryption
--Data minimization
-- pseudonymization
--Transparency
--Breach notification
-
-Campaign Monitor is compliant with the GDPR. We have implemented specific measures to protect the personal data of EU citizens, including data encryption, data minimization, pseudonymization, and transparency.
+You can send up to 300 emails at once with SendGrid.
 
 
-Can you attach files in Campaign Monitor?
+How many emails can send by SendGrid free plan?
 
 
-Yes! You can attach files to your Campaign Monitor emails by using the file upload field in the compose window. The maximum file size that you can attach is 10MB.
+SendGrid's free plan allows you to send up to 200 emails per day.
+
+
+How many emails can SendGrid send per minute?
+
+
+SendGrid can send up to 500 emails per minute.
+
+
+Does SendGrid store email content?
+
+
+Short answer: No
+
+Long answer:
+
+At SendGrid, we take data security and privacy seriously. We do not store the content of any emails that pass through our system. We do, however, store information about the senders and recipients of those emails, as well as when and how they were sent. This information is necessary to provide our customers with the analytics and reporting features that they rely on to make effective use of email marketing.
+
+
+Sendgrid review: Conclusion
+
+
+Overall, Sendgrid is a fantastic email marketing platform that is both powerful and easy to use. It’s perfect for businesses of all sizes, and its pricing is very reasonable.
+
+If you’re looking for an email marketing platform that can do it all, Sendgrid is definitely worth considering.
