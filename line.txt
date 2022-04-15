@@ -1,29 +1,77 @@
 
 
 
-How many subscribers can you have on AWeber?
+MailerLite Pros
 
 
-AWeber allows you to have up to 500 subscribers on a single list. This limit is in place to ensure that all subscribers receive the highest quality of service. Additionally, it prevents any one subscriber from monopolizing the service and prevents potential abuse.
+-MailerLite is a user-friendly email marketing platform that is easy to learn and use.
+
+-MailerLite has a wide range of features that allow you to create beautiful email newsletters, grow your subscriber list, and track the results of your campaigns.
+
+-MailerLite’s pricing is affordable and its plans are scalable, so you can choose the plan that best fits your needs.
+
+-MailerLite’s customer support is excellent and its team is always happy to help.
+
+-MailerLite is a reliable and secure platform that has been used by millions of people around the world.
 
 
-How does AWeber pricing work?
+MailerLite Cons
 
 
-AWeber pricing is based on the number of subscribers you have on your email list. You can choose from one of five pricing plans, each with a different number of subscribers included.
+-There is no phone support
 
-The first pricing plan, called "Essentials," starts at $19 per month and includes up to 500 subscribers. "Standard" pricing starts at $49 per month and includes up to 2,500 subscribers. If you have more than 2,500 subscribers, you'll need to choose the "Plus" or "Pro" pricing plans.
+-The user interface can be confusing to new users
 
-Plus pricing starts at $149 per month and includes up to 10,000 subscribers. If you have more than 10,000 subscribers, you'll need to choose the "Pro" pricing plan. Pro pricing starts at $249 per month and includes up to 25,000 subscribers.
+-You can't create segments based on recipient activity
 
-
-How long is AWeber free trial?
-
-
-AWeber offers a free trial for 30 days. After the trial, you can choose one of three pricing plans: $19/month, $49/month, or $149/month.
+-There's no built-in A/B testing
 
 
-Does AWeber have free plan?
+What is a CTA in MailerLite?
 
 
-AWeber does not have a free plan. However, they do offer a 30-day free trial.
+A CTA, or Call to Action, is an element in an email or campaign that encourages subscribers to take a specific action, such as clicking a link, signing up for a webinar, or buying a product.
+
+The CTA is one of the most important elements in your email, as it's the main way you'll convert subscribers into customers. It's important to make your CTA stand out, so it's easy for subscribers to see and understand what you want them to do.
+
+There are a few things to keep in mind when creating a CTA:
+
+- Make it clear what you want the subscriber to do.
+
+- Use strong verbs that convey a sense of urgency, such as "register now" or "buy now."
+
+- Use a clear and concise call to action button.
+
+- Place the CTA in a prominent position in your email.
+
+- Make sure the link or button is easy to click.
+
+- Test different CTAs to see which ones work best for your audience.
+
+
+Where is MailerLite data stored?
+
+
+MailerLite data is stored in the Amazon Web Services (AWS) cloud.
+
+
+Can you use MailerLite with a Gmail?
+
+
+MailerLite can be integrated with a Gmail account, making it easy to send out newsletters and other email campaigns. After integrating your MailerLite and Gmail accounts, you can easily create new email campaigns, manage subscribers, and track the success of your campaigns.
+
+
+How do I stop MailerLite emails going to spam?
+
+
+There are a few things you can do to help ensure your MailerLite emails don't go to spam:
+
+1. Use a recognizable and reputable sender name in the "From:" field.
+
+2. Make sure your email content is relevant and interesting to your subscribers.
+
+3. Include an unsubscribe link in every email so subscribers can easily unsubscribe if they no longer want to receive your emails.
+
+4. Monitor your email engagement rates and make necessary adjustments to improve them.
+
+If you follow these tips, your MailerLite emails should stay out of spam folders and be delivered to your subscribers' inboxes.
