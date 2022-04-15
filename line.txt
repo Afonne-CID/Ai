@@ -1,69 +1,31 @@
 
 
 
-MailChimp Pros
+How To Get Started With HubSpot: If you're just getting started with HubSpot, there are a few things you need to do to get set up.
 
 
-1. MailChimp is easy to use- even for the non-technical user. The user interface is clean and easy to navigate which makes creating and sending emails a breeze.
+First, create a HubSpot account. You can do this by clicking the "Sign Up" button at the top of HubSpot.com.
 
-2. MailChimp has a ton of great features- such as templates, spam testing, list management and more.
+Next, set up your company's profile. This includes adding information about your company, such as its name, website, and contact information. You can also add a logo and a profile picture.
 
-3. MailChimp is affordable- with pricing plans that fit any budget.
+To add contacts to HubSpot, you can either import them from a file or manually add them one at a time.
 
-4. MailChimp is reliable- I have never had an issue with sending or receiving emails through their platform.
+To import contacts from a file, you'll need to export them from your email marketing or CRM software as a .CSV file. Then, in HubSpot, click the "Import Contacts" button and select the file.
 
-5. MailChimp is always updating their features and improving their platform- making it the best email marketing platform available.
+To manually add contacts, in HubSpot, click the "People" tab and then click the "Add Contacts" button.
 
+To create a new contact list, in HubSpot, click the "Lists" tab and then click the "Create List" button.
 
-MailChimp Cons
+To create a new contact type, in HubSpot, click the "Settings" tab and then click the "Contact Types" link.
 
+To create a new email template, in HubSpot, click the "Templates" tab and then click the "Create Template" button.
 
-1. It can be expensive
+To create a new landing page, in HubSpot, click the "Pages" tab and then click the "Create New Page" button.
 
-MailChimp pricing plans can be expensive for small businesses, with the most basic plan starting at $10/month. If you have a small list of subscribers, you may be better off using a free plan or another email marketing service.
+To add a form to your website, in HubSpot, click the "Forms" tab and then click the "Create Form" button.
 
-2. It can be difficult to use
+To add a blog to your website, in HubSpot, click the "blogs" tab and then click the "Create Blog" button.
 
-MailChimp can be difficult to use, especially for beginners. The user interface is not always intuitive, and there are a lot of features that can be confusing.
+To track your website's traffic, in HubSpot, click the "Analytics" tab and then click the "View All Reports" button.
 
-3. It can be unreliable
-
-MailChimp has been known to be unreliable, with outages and other issues occurring occasionally. This can be frustrating for users, especially if their email campaigns are time-sensitive.
-
-4. It's not always the best choice for large businesses
-
-MailChimp is not always the best choice for large businesses. The pricing plans are not as affordable as some of the other email marketing services, and the features may not be as comprehensive.
-
-
-How many emails can I send with Mailchimp free plan?
-
-
-You can send up to 12,000 emails per month with the free plan.
-
-
-Does Mailchimp sell my email lists?
-
-
-No! Mailchimp does not sell email lists. We are committed to protecting your privacy and we will never sell, rent, or lease your email address to any third party.
-
-
-Does Mailchimp send all emails at once?
-
-
-Mailchimp queues your email campaign and sends it out in stages to ensure a healthy email deliverability. We send a portion of your email list in the first stage, and if that portion bounces or has a high complaint rate, we hold the rest of the email until we've determined that it will be successful.
-
-
-Where is Mailchimp data stored?
-
-
-Mailchimp stores your data on our secure servers in the United States. We use a variety of security measures, including firewalls and encryption, to keep your data safe.
-
-
-MailChimp Review: Conclusion
-
-
-MailChimp is an online marketing service that allows businesses to create, send, and track email campaigns. It offers a free plan for businesses with up to 2,000 subscribers, as well as a paid plan for businesses with more than 2,000 subscribers.
-
-MailChimp is a great tool for businesses of all sizes. The free plan is a great way to get started, and the paid plan offers a lot of features that can help businesses grow their email lists and improve their marketing efforts.
-
-Overall, MailChimp is a great tool for businesses of all sizes, and it offers a lot of features that can help businesses grow their email lists and improve their marketing efforts.
+That's it! You're now ready to start using HubSpot.
