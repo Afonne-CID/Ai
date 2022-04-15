@@ -4,28 +4,36 @@
 How To Get Started With AWeber
 
 
-Now that you know all about AWeber, it’s time to get started!
+AWeber is one of the most popular email marketing platforms on the market. It’s easy to use, and it offers a wide range of features that make it an attractive option for small businesses and bloggers.
 
-First, you’ll need to create an account. You can do this by clicking the “Create Account” button on our homepage.
+In this guide, we’re going to show you how to get started with AWeber. We’ll walk you through the steps of creating an account, adding subscribers, and sending out your first campaign.
 
-Once you have created your account, you’ll be taken to the AWeber dashboard. This is where you can create your first email campaign.
+Creating an Account
 
-To create a campaign, click the “Create a New Campaign” button.
+The first step is to create an account with AWeber. You can do this by clicking on the “Create Account” button on the AWeber website.
 
-You’ll then be asked to choose a campaign type. We recommend choosing the “Regular Campaign” type.
+You’ll be asked to provide some information about your business, including your name, email address, and website.
 
-Next, you’ll be asked to enter your campaign’s name and email subject.
+Once you’ve filled out the form, click on the “Create My Account” button.
 
-You’ll then be asked to create your email content.
+You’ll then be asked to verify your email address. Click on the link in the email that AWeber sends you, and you’ll be taken to the AWeber dashboard.
 
-AWeber offers a variety of templates to choose from, or you can create your own email from scratch.
+Adding Subscribers
 
-Once you have created your email, you’ll need to decide who will receive it.
+The next step is to add subscribers to your list. You can do this by clicking on the “Add Subscribers” button in the AWeber dashboard.
 
-You can choose to send your email to a list of subscribers, or you can send it to a specific group of people.
+You’ll be asked to provide some information about each subscriber, including their name, email address, and website.
 
-To send your email to a list of subscribers, you’ll need to create a list.
+You can also add subscribers manually by entering their email addresses in to the text box on the AWeber dashboard.
 
-To create a list, click the “Lists” tab and then click the “Create a New List” button.
+Sending a Campaign
 
-You’ll then be
+The final step is to send a campaign. Click on the “Create a Campaign” button in the AWeber dashboard.
+
+You’ll be asked to provide some information about your campaign, including the subject line, email content, and the date and time you want the campaign to be sent.
+
+You can also add subscribers manually by entering their email addresses in to the text box on the AWeber dashboard.
+
+Once you’ve filled out the form, click on the “Create Campaign” button.
+
+AWeber will then send a test email to each of your subscribers. Once they’ve confirmed that they’ve received the email, your campaign will be sent out.
