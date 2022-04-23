@@ -53,6 +53,7 @@ def blogWriter():
     except:
         return "File doesn't exist"
 
+
 if __name__ == "__main__":
     blogWriter()
 
