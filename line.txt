@@ -1,27 +1,13 @@
 
 
 
-How To Invest In NFT
+Steps to Invest In NFT
 
 
-Cryptocurrencies are all the rage right now, and with good reason! They offer a way to take part in the digital economy that is secure, efficient, and global. But what are they, exactly? Cryptocurrencies are digital or virtual tokens that use cryptography to secure their transactions and to control the creation of new units. Bitcoin, the first and most well-known cryptocurrency, was created in 2009.
+Cryptocurrencies are digital or virtual tokens that use cryptography to secure their transactions and to control the creation of new units. Cryptocurrencies are decentralized, meaning they are not subject to government or financial institution control. Bitcoin, the first and most well-known cryptocurrency, was created in 2009.
 
-Cryptocurrencies can be used to purchase goods and services, or can be held as an investment. Cryptocurrencies that are held as investments are often called “digital assets” or “non-fungible tokens” (NFTs). NFTs are unique digital assets that can be used to represent physical assets, such as artwork or real estate. They can also be used to represent digital assets, such as video game assets or in-game items.
+Cryptocurrencies are often traded on decentralized exchanges and can also be used to purchase goods and services. Over the past year, the value of Bitcoin and other cryptocurrencies has increased significantly, leading to increased interest in the space.
 
-NFTs are created and stored on blockchain platforms. A blockchain is a digital
+NFTs are digital assets that are unique and can be used to represent digital or physical assets. NFTs are created on blockchain platforms and can be traded on decentralized exchanges. NFTs are often used to represent digital collectibles, such as video game characters or art.
 
-
-Top NFT Examples
-
-
-1. Rare Art
-
-Rare art is a perfect example of something that is not only valuable because of its limited supply but also because of the quality of the art itself. Pieces by famous artists such as Vincent van Gogh and Pablo Picasso are always in high demand and can fetch a high price at auction.
-
-2. Vintage Cars
-
-Vintage cars are another example of something that is not only rare due to its limited supply but also because of its age. old cars are often seen as collectors items and can be worth a lot of money.
-
-3. Fine Wine
-
-Fine wine is another example of an item that is both rare and valuable due to its quality. Wine aficionados are always on the lookout for rare and expensive bottles of wine and are willing to pay a high price for the privilege.
+There are a number of blockchain platforms that allow users to create and trade NFTs, including Ethereum, EOS, and NEO. These platforms use a variety of protocols to
