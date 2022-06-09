@@ -26,7 +26,7 @@ def blogSectionExpander(prompt1):
       # engine="davinci-instruct-beta-v3",
       prompt="Expand the blog section in to a detailed professional , witty and clever explanation.\n\n {}".format(prompt1),
       temperature=0.7,
-      max_tokens=700,
+      max_tokens=3700,
       top_p=1,
       frequency_penalty=0,
       presence_penalty=0
